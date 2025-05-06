@@ -250,117 +250,236 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8?wmsAuthSi
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,true FILM ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/stjrykykarykrkrkry.webp",true Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",true MOVIE HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",ช่อง True Sports 1
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://i.imgur.com/2KybYyr.png",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 2
+https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/CCM.png" ,true visions CCM  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",TVB XING HE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 4
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cdn.pic.in.th/file/picinth/xz.png",true X-ZYTE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 5
+https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",true sports 1
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",true sports 2
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",ช่อง True Premier Football HD 1
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",ช่อง True Premier Football HD 2
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",ช่อง True Premier Football HD 3
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",ช่อง True Premier Football HD 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",ช่อง True Premier Football HD 5
+https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",ช่อง GOLF CHANNEL HD+
+https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",true sports 3
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport5.png",true sports 5
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd5/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305",ช่อง beIN Sports 1
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="truevision" tvg-logo="https://www.livestream88.com/wp-content/uploads/2021/08/sd-tsport7.png",true sports 7
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd7/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="TPF1.iptv36.my.to" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" tvg-chno="606" group-title="truevision",TRUE PREMIER FOOTBALL HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TPF2.iptv36.my.to" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" tvg-chno="607" group-title="truevision",TRUE PREMIER FOOTBALL HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TPF3.iptv36.my.to" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl3.png" tvg-chno="608" group-title="truevision",TRUE PREMIER FOOTBALL HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TPF4.iptv36.my.to" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png" tvg-chno="609" group-title="truevision",TRUE PREMIER FOOTBALL HD 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TPF5.iptv36.my.to" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" tvg-chno="210" group-title="truevision",TRUE PREMIER FOOTBALL HD 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf5/playlist.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv.jpg",truevision SPOTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sportv2.jpg",truevision SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com/
-https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein2/playlist.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein3/playlist.m3u8
-
-#EXTINF:-1 group-title="truevision" tvg-logo="https://i.imgur.com/R5xrzES.png",bein SPORTS 6
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
+https://dookeela.live/live-tv/3bbasian
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/mono29plus
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png",ช่อง Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/warnertv
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/discovery
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",ช่อง Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/discovery-asia
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/animal-planet
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",ช่อง Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/cartoonito
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png",ช่อง Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/nickjr
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",ช่อง Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/nickelodeon
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",ช่อง CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/cnn
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRundhyiMzERrnqzbeMmziG-FPuxdYY0Yg2QYL9PBkmJA&s",ช่อง BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/bbc-news
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",ช่อง MVTV ท้องถิ่นไทย
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/th-tvb-thai.jpg",ช่อง TVB-Thai
+https://n-edge-1-th.v2h-cdn.com/tvb/tvb_thai/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1eVH_7EuMxnCRJxDgjjSPW5G77sb-xvgYwQ&s",ช่อง สยาม Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxXvyIYags0HT-y82J2VXf8_DKPAQkNX2_pNaQGTqbEWSpnElD7QLypPEyX5CTste1UY&usqp=CAU",ช่อง สกาล่า Channel
+https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_31fQ6niWbtVPogeIJEGzNRcd8DhBvM7C.png",ช่อง ลิโด้ Channel
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ช่อง ไทบ้าน TV
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg",ช่อง Boomerang
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio07CFWQftvEZGeBMeHFZIxRfJm2DbC6_bQ&s",ช่อง MV LAO
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
+https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/109_x_S4Uanv7tueOR9YAysVEH1WjmBClqkTM5.jpg",ช่อง MVC-TV3
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/107_x_ajeNQEgSxDZU4XhIzYKTr8G2LqB7POJV.jpg",ช่อง MV Mall Family
+https://edge6a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",ช่อง MV Mall Home
+https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",ช่อง MV Mall Living
+https://edge6a.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i9mTUuHZF44u9XTr_Fnm05Gs7JdBIEgayw&s",ช่อง MV Mall Trend
+https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_Cmh6zO2NJqrc91xW3QUwk4I5BtXLSFsa.jpg",ช่อง MV Mall Healthy
+https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_x_Ij35qknOxBRUsWwrDKdufvC0c8Lgm4NF.jpg",ช่อง MV Mall Happy
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/113_y_MZJpu9AhykldsP1STHq08LYG47ebWwnB.png",ช่อง MV Mall Best
+https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_x_EoLA4BZTzjm91VctsQSIxXUqahd3CPpN.jpg",ช่อง MV Mall ดี๊ดี
+https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",ช่อง MV Mall Plus
+https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/95_x_O8Du7ETc04HmRsBeJxqiZQtv9zVwaAGy.jpg",ช่อง TTD1
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/97_x_LuOlUJm1sfjWYchQ2FX3GPiH6vTkN0Rr.png",ช่อง TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/98_x_NCGwFWiEHLfaMjysOutrD8hKcZl4kJY5.jpg",ช่อง TTD3
+https://psiiptv-b.sky-cdn.com/ttd03-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/99_x_J35rB9f8c7szijgaqTVYpkmUREFwhAC6.jpg",ช่อง TTD4
+https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/100_x_PMGq7QhpEJ3ezODoBI2suaF8gRj6UH5t.jpg",ช่อง TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/101_x_7fB21xQ0CoUcpGIn6tyrAvjHhsRgl5uN.jpg",ช่อง TTD6
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/102_x_qu4jxbmKrvO57SEyHiNlgIszawDAd3ec.jpg",ช่อง TTD7
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/103_x_W3OEfxzLwjldUGoSrtCY9knQ8BM1aiJp.jpg",ช่อง TTD8
+https://psiiptv-b.sky-cdn.com/ttd08-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/105_x_yRSd1jaYKgJ4VAI0cnuDzmNGlftUBZws.png",ช่อง TTD10
+https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2cNTg_1nEfvX7gCm4U4tb57mhLB0c1OE_w&s",ช่อง TTD11
+https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2cNTg_1nEfvX7gCm4U4tb57mhLB0c1OE_w&s",ช่อง TTD12
+https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/114_x_ys9VN2kUGKYRMzCBJmZHulgOf7IL4wdW.jpg",ช่อง V2H2
+https://psiiptv-b.sky-cdn.com/v2h2-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/157_x_r7T8bcgG4DoQCda2jXn5YtuiUNMfRvOk.jpg",ช่อง V2H3
+https://psiiptv-b.sky-cdn.com/v2h3-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/158_x_AQFB0wIduOGyZhgvN54no2kLlJ1eCf3p.jpg",ช่อง V2H4
+https://psiiptv-b.sky-cdn.com/v2h4-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/159_x_tuK9lWHYPq10Ej4eU2XSIJhbBV3fvOwr.jpg",ช่อง V2H5
+https://psiiptv-b.sky-cdn.com/v2h5-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/160_x_7YtmIM8SbezXylfoxPHDrgV2jLs1K4hp.jpg",ช่อง V2H6
+https://psiiptv-b.sky-cdn.com/v2h6-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/161_x_OUVo6ExJQaDyMA5RcWX9GLIP41pbBlrY.jpg",ช่อง V2H7
+https://psiiptv-b.sky-cdn.com/v2h7-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/162_x_EbJL25GIvtBwZkhljXgPiSzoAU89RTxY.jpg",ช่อง V2H8
+https://psiiptv-b.sky-cdn.com/v2h8-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/164_x_Kfm6Y9x3ENXunR0VewjITFPCr4BAZcbt.jpg",ช่อง V2H9
+https://psiiptv-b.sky-cdn.com/v2h9-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/165_x_BrDG5se0x8EFo2CJKh4uvRNIlnWqQMLT.jpg",ช่อง V2H10
+https://psiiptv-b.sky-cdn.com/v2h10-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/166_x_qszZgQ1PtkleLEodfFR5n6jw0iOB4N9T.jpg",ช่อง V2H11
+https://psiiptv-b.sky-cdn.com/v2h11-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/167_x_amMfncDgWOhvwpuXA8Y5etjLSJ9HKxNQ.jpg",ช่อง V2H12
+https://psiiptv-b.sky-cdn.com/v2h12-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/168_x_4KfRLWZwmtnQEFB18alcugxNT7362h0H.jpg",ช่อง V2H13
+https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/169_x_Y3iCxXRbrq7E2uPKUnvftpTSHyh89gdW.jpg",ช่อง V2H14
+https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg",ช่อง V2H15
+https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TENNIS.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png" tvg-chno="611" group-title="truevision",TENNIS HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
