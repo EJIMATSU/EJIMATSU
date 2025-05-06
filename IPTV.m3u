@@ -304,51 +304,6 @@ https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
-https://dookeela.live/live-tv/3bbasian
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/mono29plus
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png",ช่อง Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/warnertv
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/discovery
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",ช่อง Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/discovery-asia
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/animal-planet
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",ช่อง Cartoonito
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/cartoonito
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png",ช่อง Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/nickjr
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",ช่อง Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/nickelodeon
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",ช่อง CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/cnn
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRundhyiMzERrnqzbeMmziG-FPuxdYY0Yg2QYL9PBkmJA&s",ช่อง BBC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/bbc-news
-
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",ช่อง MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
